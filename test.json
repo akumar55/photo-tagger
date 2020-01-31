@@ -1,0 +1,592 @@
+{
+    "result": {
+        "tags": [
+            {
+                "confidence": 100,
+                "tag": {
+                    "en": "car"
+                }
+            },
+            {
+                "confidence": 96.0811538696289,
+                "tag": {
+                    "en": "motor vehicle"
+                }
+            },
+            {
+                "confidence": 70.9109725952148,
+                "tag": {
+                    "en": "sedan"
+                }
+            },
+            {
+                "confidence": 68.0768051147461,
+                "tag": {
+                    "en": "auto"
+                }
+            },
+            {
+                "confidence": 67.0048904418945,
+                "tag": {
+                    "en": "vehicle"
+                }
+            },
+            {
+                "confidence": 64.2910003662109,
+                "tag": {
+                    "en": "automobile"
+                }
+            },
+            {
+                "confidence": 62.8896369934082,
+                "tag": {
+                    "en": "transportation"
+                }
+            },
+            {
+                "confidence": 59.6650009155273,
+                "tag": {
+                    "en": "speed"
+                }
+            },
+            {
+                "confidence": 51.1836090087891,
+                "tag": {
+                    "en": "drive"
+                }
+            },
+            {
+                "confidence": 48.8732872009277,
+                "tag": {
+                    "en": "cab"
+                }
+            },
+            {
+                "confidence": 47.7816047668457,
+                "tag": {
+                    "en": "fast"
+                }
+            },
+            {
+                "confidence": 45.7563972473145,
+                "tag": {
+                    "en": "transport"
+                }
+            },
+            {
+                "confidence": 44.6820411682129,
+                "tag": {
+                    "en": "luxury"
+                }
+            },
+            {
+                "confidence": 38.8160514831543,
+                "tag": {
+                    "en": "motor"
+                }
+            },
+            {
+                "confidence": 38.0238952636719,
+                "tag": {
+                    "en": "road"
+                }
+            },
+            {
+                "confidence": 37.2414779663086,
+                "tag": {
+                    "en": "wheel"
+                }
+            },
+            {
+                "confidence": 34.6457672119141,
+                "tag": {
+                    "en": "self-propelled vehicle"
+                }
+            },
+            {
+                "confidence": 34.2822303771973,
+                "tag": {
+                    "en": "coupe"
+                }
+            },
+            {
+                "confidence": 31.8223743438721,
+                "tag": {
+                    "en": "wheeled vehicle"
+                }
+            },
+            {
+                "confidence": 31.6099872589111,
+                "tag": {
+                    "en": "modern"
+                }
+            },
+            {
+                "confidence": 31.0664501190186,
+                "tag": {
+                    "en": "sport"
+                }
+            },
+            {
+                "confidence": 29.6314144134521,
+                "tag": {
+                    "en": "tire"
+                }
+            },
+            {
+                "confidence": 29.4491882324219,
+                "tag": {
+                    "en": "power"
+                }
+            },
+            {
+                "confidence": 28.717414855957,
+                "tag": {
+                    "en": "sports"
+                }
+            },
+            {
+                "confidence": 27.7638378143311,
+                "tag": {
+                    "en": "race"
+                }
+            },
+            {
+                "confidence": 27.431921005249,
+                "tag": {
+                    "en": "bumper"
+                }
+            },
+            {
+                "confidence": 25.9656276702881,
+                "tag": {
+                    "en": "new"
+                }
+            },
+            {
+                "confidence": 25.9032096862793,
+                "tag": {
+                    "en": "expensive"
+                }
+            },
+            {
+                "confidence": 25.6992664337158,
+                "tag": {
+                    "en": "traffic"
+                }
+            },
+            {
+                "confidence": 25.4501266479492,
+                "tag": {
+                    "en": "wheels"
+                }
+            },
+            {
+                "confidence": 24.2429027557373,
+                "tag": {
+                    "en": "design"
+                }
+            },
+            {
+                "confidence": 23.0551853179932,
+                "tag": {
+                    "en": "street"
+                }
+            },
+            {
+                "confidence": 22.2983551025391,
+                "tag": {
+                    "en": "style"
+                }
+            },
+            {
+                "confidence": 21.7133731842041,
+                "tag": {
+                    "en": "chrome"
+                }
+            },
+            {
+                "confidence": 21.3163890838623,
+                "tag": {
+                    "en": "driving"
+                }
+            },
+            {
+                "confidence": 21.1022434234619,
+                "tag": {
+                    "en": "racer"
+                }
+            },
+            {
+                "confidence": 20.2621517181396,
+                "tag": {
+                    "en": "model"
+                }
+            },
+            {
+                "confidence": 19.8760395050049,
+                "tag": {
+                    "en": "black"
+                }
+            },
+            {
+                "confidence": 19.8114967346191,
+                "tag": {
+                    "en": "shiny"
+                }
+            },
+            {
+                "confidence": 19.281608581543,
+                "tag": {
+                    "en": "engine"
+                }
+            },
+            {
+                "confidence": 19.0504264831543,
+                "tag": {
+                    "en": "travel"
+                }
+            },
+            {
+                "confidence": 18.6800498962402,
+                "tag": {
+                    "en": "automotive"
+                }
+            },
+            {
+                "confidence": 18.6155910491943,
+                "tag": {
+                    "en": "cars"
+                }
+            },
+            {
+                "confidence": 18.0292205810547,
+                "tag": {
+                    "en": "motion"
+                }
+            },
+            {
+                "confidence": 17.4199371337891,
+                "tag": {
+                    "en": "light"
+                }
+            },
+            {
+                "confidence": 17.2677555084229,
+                "tag": {
+                    "en": "performance"
+                }
+            },
+            {
+                "confidence": 16.9482440948486,
+                "tag": {
+                    "en": "headlight"
+                }
+            },
+            {
+                "confidence": 16.932788848877,
+                "tag": {
+                    "en": "metal"
+                }
+            },
+            {
+                "confidence": 16.6632061004639,
+                "tag": {
+                    "en": "city"
+                }
+            },
+            {
+                "confidence": 16.6397724151611,
+                "tag": {
+                    "en": "urban"
+                }
+            },
+            {
+                "confidence": 15.9457368850708,
+                "tag": {
+                    "en": "silver"
+                }
+            },
+            {
+                "confidence": 15.6836957931519,
+                "tag": {
+                    "en": "racing"
+                }
+            },
+            {
+                "confidence": 15.6188745498657,
+                "tag": {
+                    "en": "technology"
+                }
+            },
+            {
+                "confidence": 15.0516033172607,
+                "tag": {
+                    "en": "side"
+                }
+            },
+            {
+                "confidence": 13.9814558029175,
+                "tag": {
+                    "en": "blur"
+                }
+            },
+            {
+                "confidence": 13.9386568069458,
+                "tag": {
+                    "en": "color"
+                }
+            },
+            {
+                "confidence": 13.8566551208496,
+                "tag": {
+                    "en": "horsepower"
+                }
+            },
+            {
+                "confidence": 12.8776235580444,
+                "tag": {
+                    "en": "elegant"
+                }
+            },
+            {
+                "confidence": 12.7127523422241,
+                "tag": {
+                    "en": "asphalt"
+                }
+            },
+            {
+                "confidence": 12.5633296966553,
+                "tag": {
+                    "en": "highway"
+                }
+            },
+            {
+                "confidence": 12.4771709442139,
+                "tag": {
+                    "en": "blurred"
+                }
+            },
+            {
+                "confidence": 12.3736066818237,
+                "tag": {
+                    "en": "spoiler"
+                }
+            },
+            {
+                "confidence": 11.9912891387939,
+                "tag": {
+                    "en": "metallic"
+                }
+            },
+            {
+                "confidence": 11.9495286941528,
+                "tag": {
+                    "en": "sports car"
+                }
+            },
+            {
+                "confidence": 11.8452806472778,
+                "tag": {
+                    "en": "tires"
+                }
+            },
+            {
+                "confidence": 11.7081499099731,
+                "tag": {
+                    "en": "device"
+                }
+            },
+            {
+                "confidence": 11.4471874237061,
+                "tag": {
+                    "en": "mirror"
+                }
+            },
+            {
+                "confidence": 11.4366397857666,
+                "tag": {
+                    "en": "door"
+                }
+            },
+            {
+                "confidence": 11.3138084411621,
+                "tag": {
+                    "en": "movement"
+                }
+            },
+            {
+                "confidence": 10.7036571502686,
+                "tag": {
+                    "en": "driver"
+                }
+            },
+            {
+                "confidence": 10.4768285751343,
+                "tag": {
+                    "en": "detail"
+                }
+            },
+            {
+                "confidence": 10.4093341827393,
+                "tag": {
+                    "en": "dream"
+                }
+            },
+            {
+                "confidence": 10.141185760498,
+                "tag": {
+                    "en": "lifestyle"
+                }
+            },
+            {
+                "confidence": 9.89908599853516,
+                "tag": {
+                    "en": "airfoil"
+                }
+            },
+            {
+                "confidence": 9.60928535461426,
+                "tag": {
+                    "en": "mechanical device"
+                }
+            },
+            {
+                "confidence": 9.29610347747803,
+                "tag": {
+                    "en": "yellow"
+                }
+            },
+            {
+                "confidence": 9.29166221618652,
+                "tag": {
+                    "en": "lights"
+                }
+            },
+            {
+                "confidence": 8.95293712615967,
+                "tag": {
+                    "en": "reflection"
+                }
+            },
+            {
+                "confidence": 8.90713596343994,
+                "tag": {
+                    "en": "prestige"
+                }
+            },
+            {
+                "confidence": 8.87512493133545,
+                "tag": {
+                    "en": "parking"
+                }
+            },
+            {
+                "confidence": 8.8711404800415,
+                "tag": {
+                    "en": "alloy"
+                }
+            },
+            {
+                "confidence": 8.68385124206543,
+                "tag": {
+                    "en": "high"
+                }
+            },
+            {
+                "confidence": 8.6760835647583,
+                "tag": {
+                    "en": "scene"
+                }
+            },
+            {
+                "confidence": 8.6061429977417,
+                "tag": {
+                    "en": "moving"
+                }
+            },
+            {
+                "confidence": 8.39175701141357,
+                "tag": {
+                    "en": "presentation"
+                }
+            },
+            {
+                "confidence": 8.30590534210205,
+                "tag": {
+                    "en": "toy"
+                }
+            },
+            {
+                "confidence": 7.91860246658325,
+                "tag": {
+                    "en": "acceleration"
+                }
+            },
+            {
+                "confidence": 7.91106224060059,
+                "tag": {
+                    "en": "taxi"
+                }
+            },
+            {
+                "confidence": 7.87688827514648,
+                "tag": {
+                    "en": "bright"
+                }
+            },
+            {
+                "confidence": 7.72978162765503,
+                "tag": {
+                    "en": "line"
+                }
+            },
+            {
+                "confidence": 7.69572591781616,
+                "tag": {
+                    "en": "windows"
+                }
+            },
+            {
+                "confidence": 7.44148540496826,
+                "tag": {
+                    "en": "classic"
+                }
+            },
+            {
+                "confidence": 7.38578510284424,
+                "tag": {
+                    "en": "land"
+                }
+            },
+            {
+                "confidence": 7.10056400299072,
+                "tag": {
+                    "en": "mechanism"
+                }
+            },
+            {
+                "confidence": 7.04585790634155,
+                "tag": {
+                    "en": "hatchback"
+                }
+            },
+            {
+                "confidence": 7.03936338424683,
+                "tag": {
+                    "en": "limousine"
+                }
+            },
+            {
+                "confidence": 7.01219463348389,
+                "tag": {
+                    "en": "glass"
+                }
+            }
+        ]
+    },
+    "status": {
+        "text": "",
+        "type": "success"
+    }
+}
